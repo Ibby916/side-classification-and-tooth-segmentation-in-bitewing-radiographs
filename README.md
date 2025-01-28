@@ -1,7 +1,7 @@
 # Automating Side Classification and Tooth Segmentation with Numbering in Bitewing Radiographs Using Deep Learning
 
 
-### This study is currently in the process of being published in a journal under Springer Nature.
+## This study is currently in the process of being published in a journal under Springer Nature.
 
 In dental diagnosis, the analysis of bitewing radiographs is crucial for detecting, monitoring, and
 treating dental issues. Two crucial steps in analyzing bitewings are distinguishing between the left
