@@ -24,3 +24,4 @@ future innovations.
 
 ## Overall framework
 ![Fig. 1 Overall classification and segmentation framework](classification-and-segmentation-framework.svg)
+**Fig. 1 Overall classification and segmentation framework**
