@@ -5,8 +5,7 @@
 
 In dental diagnosis, the analysis of bitewing radiographs is crucial for detecting, monitoring, and
 treating dental issues. Two crucial steps in analyzing bitewings are distinguishing between the left
-and right radiographs along with accurately identifying, numbering, and segmenting each tooth. Tra
-ditional methods of these steps in analyzing bitewings are time-consuming, labor-intensive, and prone
+and right radiographs along with accurately identifying, numbering, and segmenting each tooth. Traditional methods of these steps in analyzing bitewings are time-consuming, labor-intensive, and prone
 to variability in interpretation, leading to diagnostic errors and inconsistent treatment outcomes. To
 address these issues, this study proposes a comprehensive framework for classifying radiographs (left
 vs. right) and accurately numbering and segmenting teeth using CNN-based classifiers (CNN, VGG19,
